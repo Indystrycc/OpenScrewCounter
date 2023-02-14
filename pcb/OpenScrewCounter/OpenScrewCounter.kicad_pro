@@ -380,11 +380,11 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "",
+      "idf": "OpenScrewCounter.emn",
       "netlist": "OpenScrewCounter.net",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "OpenScrewCounter.step",
+      "vrml": "OpenScrewCounter.wrl"
     },
     "page_layout_descr_file": ""
   },
