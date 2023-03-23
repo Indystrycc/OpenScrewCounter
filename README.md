@@ -1,4 +1,4 @@
-![OpenScrewCounter](docs/mini.JPG)
+![OpenScrewCounter](docs/mini.jpg)
 
 
 Designed by [Nikodem Bartnik](https://www.youtube.com/nikodembartnik). 
@@ -21,4 +21,4 @@ Project is open source and all the files and the code are available above. Feel 
 
 ## Videos
 
-[![](https://img.youtube.com/vi/OB4AxmelKik/0.jpg)](https://youtu.be/OB4AxmelKik)
+[![](https://img.youtube.com/vi/acUexuxC3fU/0.jpg)](https://youtu.be/acUexuxC3fU)
